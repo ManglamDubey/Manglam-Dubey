@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **results-driven Database Developer with 9+ years of programming experience** in **Oracle PL/SQL, MySQL, and SQL Server**, specializing in the analysis, design, development, implementation, and optimization of database-driven business applications.
+I am a **results-driven Database Developer with 10+ years of programming experience** in **Oracle PL/SQL, MySQL, and SQL Server**, specializing in the analysis, design, development, implementation, and optimization of database-driven business applications.
 
 I have experience across the **Software Development Life Cycle (SDLC)** and have worked on enterprise applications involving database development, ERP systems, data conversion, reporting, ETL, SQL optimization, and application support.
 
